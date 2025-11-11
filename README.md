@@ -220,9 +220,6 @@ Les résultats se consultent ensuite via les dashboards ci-dessus ou directement
 
 ---
 
-### Historique
-
-- Rapport synthétisé le 11/11/2025 à partir de `BENCHMARK_RESULTS.md` et des fichiers JMeter fournis.
 
 
 
